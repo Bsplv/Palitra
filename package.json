@@ -1,0 +1,17 @@
+{
+  "name": "twit_demo",
+  "version": "1.0.0",
+  "description": "bot.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainbow"
+  ],
+  "author": "Mike Bespalov",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.1.1"
+  }
+}
